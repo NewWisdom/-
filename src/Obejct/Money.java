@@ -1,8 +1,10 @@
-import java.math.BigDecimal;
-
 /**
  * 금액과 관련한 다양한 계산 구현
  */
+
+package Obejct;
+
+import java.math.BigDecimal;
 
 public class Money {
     public static final Money ZERO = Money.wons(0);

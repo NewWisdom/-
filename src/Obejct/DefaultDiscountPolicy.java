@@ -1,10 +1,12 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
 /**
  * 할인 정책
  */
+
+package Obejct;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 public abstract class DefaultDiscountPolicy implements DiscountPolicy{
     private List<DiscountCondition> conditions = new ArrayList<>();

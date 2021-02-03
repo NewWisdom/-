@@ -3,6 +3,8 @@
  * 1. 가방 안에는 현금과 초대장 둘 다 있거나, 현금만 있을 경우 2가지이기 떄문에 제약을 강제할 수 있는 생성자를 추가한다.
  */
 
+package Obejct;
+
 public class Bag {
     private Long amount;
     private Invitation invitation;

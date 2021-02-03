@@ -2,6 +2,8 @@
  * 금액 할인 정책
  */
 
+package Obejct;
+
 public class AmountDiscountPolicy extends DefaultDiscountPolicy {
     private Money discountAmount;
 

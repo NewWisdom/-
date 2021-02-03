@@ -1,9 +1,11 @@
-import java.time.DayOfWeek;
-import java.time.LocalTime;
-
 /**
  * 할인 조건 - 기간 조건
  */
+
+package Obejct;
+
+import java.time.DayOfWeek;
+import java.time.LocalTime;
 
 public class PeriodCondition implements DiscountCondition {
     private DayOfWeek dayOfWeek;

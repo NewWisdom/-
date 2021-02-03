@@ -1,8 +1,10 @@
-import java.time.Duration;
-
 /**
  * 영화
  */
+
+package Obejct;
+
+import java.time.Duration;
 
 public class Movie {
     private String title;

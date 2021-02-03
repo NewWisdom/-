@@ -2,6 +2,8 @@
  * 비율 할인 정책
  */
 
+package Obejct;
+
 public class PercentDiscountPolicy extends DefaultDiscountPolicy {
     private double percent;
 

@@ -1,8 +1,10 @@
-import java.time.LocalDateTime;
-
 /**
  * 상영
  */
+
+package Obejct;
+
+import java.time.LocalDateTime;
 
 public class Screening {
     private Movie movie;

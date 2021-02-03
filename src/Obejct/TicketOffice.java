@@ -1,10 +1,13 @@
+/**
+ * 티켓 오피스: 관람객에게 판매할 티켓과 티켓 판매 금액이 보관돼야 함
+ */
+
+package Obejct;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * 티켓 오피스: 관람객에게 판매할 티켓과 티켓 판매 금액이 보관돼야 함
- */
 public class TicketOffice {
     private Long amount;
     private List<Ticket> tickets = new ArrayList<>();

@@ -1,6 +1,9 @@
 /**
  * 관람객
  */
+
+package Obejct;
+
 public class Audience {
     private Bag bag;
 

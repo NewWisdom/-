@@ -1,3 +1,5 @@
+package Obejct;
+
 /**
  * 소극장
  */
